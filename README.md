@@ -21,8 +21,8 @@ To run this project, you need to have the following libraries installed:
 
 After training the LSTM model, the following performance metrics were obtained:
 
-Mean Absolute Error (MAE): 0.08
-Mean Squared Error (MSE): 0.09
-Root Mean Squared Error (RMSE): 0.29
-R-squared (R2): 0.96
+- Mean Absolute Error (MAE): 0.08
+- Mean Squared Error (MSE): 0.09
+- Root Mean Squared Error (RMSE): 0.29
+- R-squared (R2): 0.96
   
