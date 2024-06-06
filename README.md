@@ -4,10 +4,8 @@ This project aims to forecast weekly sales data for different product categories
 
 ## Project Structure
 
-- **data/**: Directory containing the input data files.
-- **notebooks/**: Jupyter notebooks used for data analysis and model training.
-- **output/**: Directory to store the forecast results and performance metrics.
-- **scripts/**: Python scripts for data preprocessing and model training.
+- **store-sales-time-series-forecasting.zip**: Directory containing the input data files.
+- **.ipynb files**: Jupyter notebooks used for data analysis and model training.
 - **README.md**: This readme file.
 
 ## Requirements
