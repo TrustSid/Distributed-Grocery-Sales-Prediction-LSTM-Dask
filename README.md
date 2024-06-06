@@ -7,7 +7,13 @@ This project aims to forecast weekly sales data for different product categories
 - **store-sales-time-series-forecasting.zip**: Directory containing the input data files.
 - **.ipynb files**: Jupyter notebooks used for data analysis and model training.
 - **README.md**: This readme file.
-- **predictions.csv**: Final output after model training
+- **predictions.csv**: Final output after model training.
+
+## Notebooks
+
+- **LSTM-Sales-Forecasting.ipynb**: Notebook containing all ML proccesses including data cleaning, analysis, model training, and prediction.
+- **test_data_cleaning.ipynb**: Notebook for cleaning and preprocessing of test data.
+- **inverse_transformation_sales.ipynb**: Notebook for combining final predicition with test data after inverse transformation.
 
 ## Requirements
 
