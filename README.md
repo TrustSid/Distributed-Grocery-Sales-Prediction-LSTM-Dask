@@ -18,6 +18,26 @@ To run this project, you need to have the following libraries installed:
 - tensorflow
 - dask
 
+## Steps
+
+1. **Data Cleaning**: Process of cleaning and preprocessing raw data.
+   
+2. **EDA (Exploratory Data Analysis)**: Analyzing data to summarize its main characteristics.
+
+3. **Plotting ACF and PACF graphs**: Checking for seasonality and autocorrelation in the data.
+
+4. **Differencing**: Transforming a time series dataset to make it stationary.
+
+5. **Stationarity Testing**: Testing the stationarity of the transformed dataset.
+
+6. **Further Data Cleaning**: Additional preprocessing steps as necessary.
+
+7. **Model Training using LSTM**: Training the Long Short-Term Memory (LSTM) neural network model.
+
+8. **Model Testing and Evaluation**: Evaluating the trained model's performance.
+
+9. **Finish**: Project Conclusion.
+
 ## Performance Metrics
 
 After training the LSTM model, the following performance metrics were obtained:
