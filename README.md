@@ -7,6 +7,7 @@ This project aims to forecast weekly sales data for different product categories
 - **store-sales-time-series-forecasting.zip**: Directory containing the input data files.
 - **.ipynb files**: Jupyter notebooks used for data analysis and model training.
 - **README.md**: This readme file.
+- **predictions.csv**: Final output after model training
 
 ## Requirements
 
