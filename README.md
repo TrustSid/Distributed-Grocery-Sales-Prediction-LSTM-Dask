@@ -46,4 +46,7 @@ After training the LSTM model, the following performance metrics were obtained:
 - Mean Squared Error (MSE): 0.09
 - Root Mean Squared Error (RMSE): 0.29
 - R-squared (R2): 0.96
-  
+
+**Note**: The final output sales have not been inversely transformed after scaling.
+
+
