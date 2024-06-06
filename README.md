@@ -1,6 +1,6 @@
 # Sales Forecasting with LSTM
 
-This project aims to forecast weekly sales data for different product categories in various grocery stores of Corporación Favorita, a large Ecuadorian-based grocery retailer using Long Short-Term Memory (LSTM) neural networks. The forecasts incorporate additional variables such as promotion status, store number, and product category.
+This project aims to forecast weekly sales data for different product categories in various branches of Corporación Favorita, a large Ecuadorian-based grocery retailer using Long Short-Term Memory (LSTM) neural networks. The forecasts incorporate additional variables such as promotion status, store number, and product category.
 
 ## Project Structure
 
