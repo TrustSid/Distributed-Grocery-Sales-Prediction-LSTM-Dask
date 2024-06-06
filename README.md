@@ -17,6 +17,7 @@ To run this project, you need to have the following libraries installed:
 - numpy
 - tensorflow
 - dask
+- scikit-learn
 
 ## Steps
 
@@ -36,7 +37,9 @@ To run this project, you need to have the following libraries installed:
 
 8. **Model Testing and Evaluation**: Evaluating the trained model's performance.
 
-9. **Finish**: Project Conclusion.
+9. **Sales Predicted Data Inverse Transformation**: Inversing scalar transformation on predicted output for cleaner data representation.
+
+10. **Finish**: Project Conclusion.
 
 ## Performance Metrics
 
@@ -46,7 +49,5 @@ After training the LSTM model, the following performance metrics were obtained:
 - Mean Squared Error (MSE): 0.09
 - Root Mean Squared Error (RMSE): 0.29
 - R-squared (R2): 0.96
-
-**Note**: The final output sales have not been inversely transformed after scaling.
 
 
