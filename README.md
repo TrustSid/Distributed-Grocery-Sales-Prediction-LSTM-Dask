@@ -39,8 +39,6 @@ To run this project, you need to have the following libraries installed:
 
 9. **Sales Predicted Data Inverse Transformation**: Inversing scalar transformation on predicted output for cleaner data representation.
 
-10. **Finish**: Project Conclusion.
-
 ## Performance Metrics
 
 After training the LSTM model, the following performance metrics were obtained:
