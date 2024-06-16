@@ -1,6 +1,6 @@
 # Sales Forecasting with LSTM
 
-This project aims to forecast weekly sales data for different product categories in various branches of Corporación Favorita, a large Ecuadorian-based grocery retailer using Long Short-Term Memory (LSTM) neural networks. The forecasts incorporates additional variables such as promotion (discount), store number, and product category.
+This project aims to forecast weekly sales data for different product categories in various branches of Corporación Favorita, a large Ecuadorian-based grocery retailer using Long Short-Term Memory (LSTM) neural networks. The forecasts incorporate additional variables such as promotion (discount), store number, and product category. To handle the large-scale data processing required for this project, Dask, a flexible library for parallel computing in Python, is utilized. Dask enables distributed data processing, allowing for efficient manipulation and analysis of the extensive dataset across multiple cores or machines, thus improving performance and scalability.
 
 ## Project Structure
 
